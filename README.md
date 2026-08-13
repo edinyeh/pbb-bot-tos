@@ -1,2 +1,2 @@
 # pbb-bot-tos
-Prestigious Billionaire Badman bot TOS and Privacy Policy
+Prestigious Billionaire Badman bot ToS and Privacy Policy
